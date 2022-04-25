@@ -1,4 +1,4 @@
-# ryzentosh
+# zentosh
 Hackintosh/OpenCore EFI for MSI B450 Tomahawk MAX
 ***
 ### A few words:
