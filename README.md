@@ -1,5 +1,5 @@
 # ryzentosh
-Ryzentosh/OpenCore EFI for MSI B450 Tomahawk MAX
+Hackintosh/OpenCore EFI for MSI B450 Tomahawk MAX
 ***
 ### A few words:
 This is a copy of the EFI folder I'm using on a Monterey (12.3.1) hackintosh MacOS ryzen machine. It's specific for the hardware mentioned below. Do NOT use it if you don't have the same hardware or don't know what you're doing as I'm NOT responsible if you break something. This EFI was created by following the guide made by [acidanthera](https://github.com/acidanthera) which can be found [here](https://dortania.github.io/getting-started/).
