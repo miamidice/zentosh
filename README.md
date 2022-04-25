@@ -10,10 +10,15 @@ This is a copy of the EFI folder I'm using on a Monterey (12.3.1) hackintosh Mac
 - SSD/HDD: Crucial MX500 1TB SSD Drive ~~+ WD RAID Edition (RE) 4TB Enterprise SATA HDD~~
 - GFX: Sapphire Nitro+ RX580 8GB GDDR5
 ### What works:
-- Everything, except the USB-C charger at full speed (will be fixed soon)
+- Everything, except the USB-C fast charging (will be fixed soon)
 ### What's NOT included in the EFI/config.plist:
 - Wireless/Bluetooth support
 - NVMe/M.2 support
 ### Don't forget to:
 - Run GenSMBIOS and update SystemSerialNumber, MLB, ROM and UUID values for your system in PlatformInfo -> Generic
 - Create Vault for the EFI folder (or set Misc -> Security -> Vault to Optional in config.plist, if you don't want to use vault)
+### Big thanks to:
+- [acidanthera](https://github.com/acidanthera)
+- [alyxferrari](https://github.com/alyxferrari)
+- [Mieze](https://github.com/Mieze)
+- AMD OSX Discord community (https://discord.gg/EfCYAJW)
