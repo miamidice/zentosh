@@ -9,11 +9,12 @@ This EFI was created by following the guide made by [acidanthera](https://github
 ### Hardware:
 - CPU: AMD Ryzen 5 3600 (AM4 - 6-Core, 12-Threads)
 - MEM: Patriot Viper 4 Blackout DDR4 (2x8GB) @ 3200MHz
-- MOBO: MSI B450 MSI Tomahawk MAX with the latest official BIOS release 7C02v3D
+- MOBO: MSI B450 MSI Tomahawk MAX (official BIOS version/release 7C02v3D)
 - SSD/HDD: Crucial MX500 1TB SSD Drive ~~+ WD RAID Edition (RE) 4TB Enterprise SATA HDD~~
 - GFX: Sapphire Nitro+ RX580 8GB GDDR5
+### 
 ### What works:
-- Everything, except the USB-C fast charging (will be fixed soon)
+- So far everything.
 ### What's NOT included in the EFI/config.plist:
 - Wireless/Bluetooth support
 - NVMe/M.2 support
