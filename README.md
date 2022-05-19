@@ -3,7 +3,7 @@ Hackintosh/OpenCore EFI for MSI B450 Tomahawk MAX
 ***
 ### A few words:
 This is a copy of the EFI folder, running OpenCore 7.9 on a Monterey (12.3.1) hackintosh MacOS AMD Ryzen machine. It's specific for the hardware mentioned below. 
-Do NOT use it if you don't have the same components as it probably won't work, plus I'm NOT responsible if you break something :) 
+Do NOT use it if you don't have the same components as it probably won't work, plus note that I'm NOT responsible if you break something :) 
 
 This EFI was created by following the guide made by [acidanthera](https://github.com/acidanthera) which can be found [here](https://dortania.github.io/getting-started/).
 ### Hardware:
